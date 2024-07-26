@@ -1,5 +1,7 @@
-Fabric Deployment Using a Seed Node: Getting Started
-Introduction
+# Fabric Deployment Using a Seed Node: Getting Started
+
+## Introduction
+
 Describes how to create/deploy first fabric using seed node.
 
 #Steps
@@ -24,5 +26,5 @@ Use the following steps to bring up the container image and launch the Create Fa
  
 6.The script brings up the latest Data Fabric version in containerized form. Console messages provide a link to a simple user interface that you can use to deploy the first fabric.
 
-Documentation Link
+## Documentation Link
 For user documentation, see https://docs.ezmeral.hpe.com/datafabric/home/installation/installation_main.html
